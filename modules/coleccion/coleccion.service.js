@@ -1,0 +1,4 @@
+const coleccionService = {};
+
+let coleccion = [];
+
