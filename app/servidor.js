@@ -1,5 +1,5 @@
 import express from 'express';
-import coleccionRouter from '../modules/coleccion/coleccion.routes';
+import coleccionRouter from '../modules/coleccion/coleccion.routes.js';
 
 const app = express();
 
